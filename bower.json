@@ -1,0 +1,10 @@
+{
+  "name": "allPlatformFacebookConnect",
+  "version": "0.1.0",
+  "main": "allPlatformFacebookConnect.js",
+  "ignore": [
+    "README.md"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}

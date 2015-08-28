@@ -1,0 +1,27 @@
+{
+  "name": "allPlatformFacebookConnect",
+  "version": "0.1.0",
+  "description": "Wraps JavaScript interface for PhoneGap bridge to Facebook Connect SDK",
+  "main": "allPlatformFacebookConnect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angular/angular.js.git"
+  },
+  "keywords": [
+    "angular",
+    "facebook",
+    "browser",
+    "social",
+    "cordova",
+    "ionic"
+  ],
+  "author": "Lane Rettig <lanerettig@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular/angular.js/issues"
+  },
+  "homepage": "http://angularjs.org"
+}
