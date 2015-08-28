@@ -19,6 +19,8 @@ core features:
 
 **(2)** Install allPlatformFacebookConnect
 
+**(3)** Set `fbAppId` in `allPlatformFacebookConnect.js`
+
 ## Important Note
 
 This software is incomplete and a work in progress. It is untested on Android.
